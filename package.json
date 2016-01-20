@@ -1,0 +1,31 @@
+{
+  "name": "flux",
+  "version": "0.0.1",
+  "description": "React Starter",
+  "author": "Zach Waterfield",
+  "repository": "https://github.com/zlwaterfield/react-starter",
+  "readme": "https://github.com/zlwaterfield/react-starter/README.md",
+  "license": "Apache 2",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.2.0",
+    "es6-promise": "^1.0.0",
+    "eventemitter3": "^1.1.1",
+    "flux": "^2.0.1",
+    "object-assign": "^1.0.0",
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.2.2"
+  },
+  "dependencies": {
+    "gulp-less": "^3.0.3",
+    "gulp-webserver": "0.9.1",
+    "history": "^1.13.0",
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "react-router": "^1.0.0-rc3",
+    "reactify": "^1.1.1"
+  }
+}
